@@ -19,6 +19,6 @@
 
     Finally, you must enable nearby mode on your mobile (Android) **Setting -> Google -> Nearby**
 
-    **Result:** you can see beacon contents or nearby places that doesn't show via notification, So you must change priority. 👇
+    **Result:** you can see beacon contents or nearby places that don't show via notification, So you must change the priority. 👇
 
     ![string](image//step-setting.png)
