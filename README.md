@@ -13,12 +13,12 @@
 
 - **Step 3:** Configuration Nearby Notification
 
-    You can setup URL and content notification nearby for your beacon on [Beacons Dashboard](https://developers.google.com/beacons/dashboard/)
+    You can set up URL and content notification nearby for your beacon on [Beacons Dashboard](https://developers.google.com/beacons/dashboard/)
 
 - **Step 4:** Enable Mode Nearby
 
-    Finally you must enable nearby mode on your mobile (Android) **Setting -> Google -> Nearby**
+    Finally, you must enable nearby mode on your mobile (Android) **Setting -> Google -> Nearby**
 
-    **Result:** you can see list of content beacon or nearby place but it doesn't show via notification, So you must change priority. 👇
+    **Result:** you can see beacon contents or nearby places that doesn't show via notification, So you must change priority. 👇
 
     ![string](image//step-setting.png)
