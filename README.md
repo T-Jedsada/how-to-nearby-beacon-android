@@ -19,6 +19,6 @@
 
     Finally you must to enable mode nearby on your mobile (Android) **Setting -> Google -> Nearby**
 
-    result your can see list link or place nearby but it's not show notification or popup, So your must go to change pority in setting icon top-right corner on **Nearby** menu 👇
+    result your can see list content link beacon or place nearby but it's not show notification or popup, So your must go to change pority in setting icon top-right corner on **Nearby** menu 👇
 
     ![string](image//step-setting.png)
